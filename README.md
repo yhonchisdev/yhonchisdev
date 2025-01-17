@@ -2,6 +2,10 @@
 <img align='right' src="https://avatars.githubusercontent.com/u/44553930" width="230">
 <p><em>Development of Information Systems at <a href="https://khipu.edu.pe">Khipu</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
+<p><em>English B1+ at <a href="https://maximoingles.com/peru/">Maximo Nivel</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+</em></p>
+
+<br/>
 
 [![Twitter: yhonchisdev](https://img.shields.io/twitter/follow/yhonchisdev?style=social)](https://x.com/yhonchisdev)
 [![](https://img.shields.io/badge/LinkedIn-yhonchisdev-blue)](https://www.linkedin.com/in/yhonchisdev/)
