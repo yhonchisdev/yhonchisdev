@@ -1,5 +1,5 @@
 <h2> Hi, I'm Yhonchis! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
-<img align='right' src="https://avatars.githubusercontent.com/u/44553930" width="230">
+<img align='right' src="https://scontent.fcuz1-1.fna.fbcdn.net/v/t39.30808-6/472134906_9175997489125045_1598295218977729837_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=foCmTFdEqisQ7kNvgGYlzMo&_nc_oc=AdicwS-cg---pp7aBVQk5LFMXeEkHSCh9eMcW6gsVm01w3orVRyqwWYzInYnOmCdEvAthyrk24WUjG8AwwHrP_vc&_nc_zt=23&_nc_ht=scontent.fcuz1-1.fna&_nc_gid=AIeR8dkj-Yv9psaXgNTqP7H&oh=00_AYA636ZTceBh61gA41NjaV91cjuN7P5Jctoc7APW62UJmg&oe=67904C22" width="230">
 <p><em>Development of Information Systems at <a href="https://khipu.edu.pe">Khipu</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 <p><em>English B1+ at <a href="https://maximoingles.com/peru/">Maximo Nivel</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
